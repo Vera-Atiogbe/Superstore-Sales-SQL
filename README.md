@@ -52,7 +52,7 @@ Single table: `superstore` with 21 columns including:
 ### Finance & Operations
 - Average discount is 35%, high discounts above 40% result in losses
 - 1,808 orders (18%) generated a loss
-- Technology has highest profit margin at 17.39%
+- Technology has the highest profit margin at 17.39%
 - Standard Class is most used and most profitable shipping mode
 
 ### Marketing & Customer Analysis
@@ -62,6 +62,10 @@ Single table: `superstore` with 21 columns including:
 - 20 customers have spent above $10,000 (Pareto Principle)
 
 ### Time Series & Trend Analysis
+- The biggest growth jump was from October to November with an increase of $152,990.39
+- The biggest projected growth is from October into November at $152,990.39,signaling the start of the holiday season surge
+- Cumulative sales grow steadily throughout the year reaching $2,292,476.07 by December
+- Phones lead sub-category sales at $329,753.14 followed closely by Chairs at $328,449.13
 - 2014 was the strongest year in both sales and profit
 - November leads in sales, December leads in profit
 - Q4 accounts for 65.2% of annual sales
